@@ -74,7 +74,7 @@
 
 # strategic places to put this file
 # - ~/.bashrc?
-# - /root/.bashc?
+# - /root/.bashrc?
 # /etc/profile.d/ ?
 
 # Source global definitions
