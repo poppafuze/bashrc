@@ -1,20 +1,24 @@
 # .bashrc
 
 # "This is my rifle.  There are many like it, but this one is mine..."
+# (c) 2014-2016 Red Hat, Inc.
 #
 # Like many bashrc files, this is a highly customized set of personal quirks 
 # and generally not formatted or annotated for distribution.  For example,
-# this was plagiarized from so many sources that I'm ashamed to use an attribution line.
+# this was plagiarized from so many sources that I'm ashamed to use an attribution line...
 
-# CREDITS
-# However, this particular plagiarism was performed in 2014-2015 by bbenson@redhat.com,
+# CREDITS:
+# ...However, this particular plagiarism was performed in 2014-2015 by bbenson@redhat.com,
 # with interaction/input from Emmanuel Rouat and Grendel Cooper of the 
 # Advanced Bash Scripting Guide at http://tldp.org/LDP/abs/html/sample-bashrc.html
 # Many thanks to all the people whose code this is sourced from.  Please message me 
 # if you notice a contribution you made and I will be happy to add your name.
 
+# LICENSE: GPLv3
+
 # TODO ##########
-# - detect it was run from cli and not installed, and offer to install
+# - detect it was run from cli and not installed, and offer to install 
+#  -- i.e. self-deployment, perhaps with an augeas shellvar import of existing ~/.bashrc
 #
 # - test for very simplistic terminal call (i.e. serial) and prompt accordingly
 #
