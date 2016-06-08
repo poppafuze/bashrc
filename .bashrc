@@ -5,10 +5,13 @@
 # Like many bashrc files, this is a highly customized set of personal quirks 
 # and generally not formatted or annotated for distribution.  For example,
 # this was plagiarized from so many sources that I'm ashamed to use an attribution line.
+
+# CREDITS
 # However, this particular plagiarism was performed in 2014-2015 by bbenson@redhat.com,
 # with interaction/input from Emmanuel Rouat and Grendel Cooper of the 
 # Advanced Bash Scripting Guide at http://tldp.org/LDP/abs/html/sample-bashrc.html
-# Many thanks to all the people whose code this is sourced from.
+# Many thanks to all the people whose code this is sourced from.  Please message me 
+# if you notice a contribution you made and I will be happy to add your name.
 
 # TODO ##########
 # - detect it was run from cli and not installed, and offer to install
