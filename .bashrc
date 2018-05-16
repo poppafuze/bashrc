@@ -286,6 +286,9 @@ alias vless='vim -u /usr/share/vim/vim72/macros/less.vim'
 alias rm='rm -i'
 alias cp='cp -i'
 alias mv='mv -i'
+alias ll='ls -l --color=auto'
+alias ls='ls --color=auto'
+# alias l.='ls -d .* --color=auto'
 
 # Uncomment the following line if you don't like systemctl's auto-paging feature:
 # # export SYSTEMD_PAGER=
