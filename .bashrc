@@ -270,6 +270,15 @@ NPS1=${NPS1}"\[${NC}\] "
 # and running 'PS1=$NPS1' interactively
 PS1=$NPS1
 
+# unlimited data plan
+# no limit to bash history
+export HISTSIZE=
+export HISTFILESIZE=
+
+# place timestamp in history
+# i.e. when support asks "did you run that command before?"
+export HISTTIMEFORMAT="%F-%H%M%S%Z "
+
 # User specific aliases and functions
 alias vless='vim -u /usr/share/vim/vim72/macros/less.vim'
 
