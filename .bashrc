@@ -290,6 +290,11 @@ alias ll='ls -l --color=auto'
 alias ls='ls --color=auto'
 # alias l.='ls -d .* --color=auto'
 
+alias os='openstack'
+#alias tlst='tmux ls'
+#alias tnew='tmux new -s'
+#alias tmat='tmux attach -t'
+
 # Uncomment the following line if you don't like systemctl's auto-paging feature:
 # # export SYSTEMD_PAGER=
 #
